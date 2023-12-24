@@ -23,26 +23,26 @@ This is a simple social media app to practice fullstack development.
 
 ```
 $ npm install
-$ npm install react-router-dom
+npm install react-router-dom
 ```
 
 ##### To set up Tailwind. run:
 
 ```
-$ npm install -D tailwindcss postcss autoprefixer
-$ npx tailwindcss init -p
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
 
 ##### For animation package, run:
 
 ```
-$ npm install -D tailwindcss-animate
+npm install -D tailwindcss-animate
 ```
 
 ##### To run a local server:
 
 ```
-$ npm run dev
+npm run dev
 ```
 
 ## React + TypeScript + Vite
