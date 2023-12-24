@@ -22,7 +22,7 @@ This is a simple social media app to practice fullstack development.
 ##### To install npm, run:
 
 ```
-$ npm install
+npm install
 npm install react-router-dom
 ```
 
