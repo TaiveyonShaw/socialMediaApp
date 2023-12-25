@@ -4,7 +4,7 @@
 
 - [Introduction](#Intro)
 - [Installation and Start](#Installation)
-- [React + TypeScript + Vite](#React_+_TypeScript_+_Vite)
+- [React + TypeScript + Vite](#react--typescript--vite)
 
 ## Intro
 
