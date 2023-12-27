@@ -39,6 +39,12 @@ npx tailwindcss init -p
 npm install -D tailwindcss-animate
 ```
 
+##### To update vite.config.ts, run:
+
+```
+npm i -D @types/node
+```
+
 ##### To run a local server:
 
 ```
